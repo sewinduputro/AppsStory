@@ -1,0 +1,79 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2
+    },
+
+    "ad_network": [
+      {
+        "name": "admob",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": true
+      }
+    ]
+  },
+
+  "guide": {
+    "enable": true,
+    "content": [
+      {
+        "title": "Kecelakaan di Restoran Sushi",
+        "image": "file:///android_asset/img/ic_launcher.png",
+        "link": "https://latoquiz.blogspot.com/p/kecelakaan-di-restoran-sushi.html"
+      },
+      {
+        "title": "Pesta Ulang Tahun",
+        "image": "file:///android_asset/img/ic_launcher.png",
+        "link": "https://latoquiz.blogspot.com/p/pesta-ulang-tahun.html"
+      },
+	  {
+        "title": "Terjebak di Toko Buku",
+        "image": "file:///android_asset/img/ic_launcher.png",
+        "link": "https://latoquiz.blogspot.com/p/terjebak-di-toko-buku.html"
+      },
+	  {
+        "title": "Bermain Bola Basket",
+        "image": "file:///android_asset/img/ic_launcher.png",
+        "link": "https://latoquiz.blogspot.com/p/bermain-bola-basket.html"
+      },
+	  {
+        "title": "Hutan Belantara",
+        "image": "file:///android_asset/img/ic_launcher.png",
+        "link": "https://latoquiz.blogspot.com/p/hutan-belantara.html"
+      },
+	  {
+        "title": "Menggila di Lapangan Golf",
+        "image": "file:///android_asset/img/ic_launcher.png",
+        "link": "https://latoquiz.blogspot.com/p/menggila-di-lapangan-golf.html"
+      },
+	  {
+        "title": "Pantai yang Tak Terlupakan",
+        "image": "file:///android_asset/img/ic_launcher.png",
+        "link": "https://latoquiz.blogspot.com/p/perjalanan-budu-dan-dudu-gemoy-ke.html"
+      },
+	  {
+        "title": "Berkemah di Gunung",
+        "image": "file:///android_asset/img/ic_launcher.png",
+        "link": "https://latoquiz.blogspot.com/p/berkemah-di-gunung.html"
+      },
+	  {
+        "title": "Aksi Belanja di Pasar Tradisional",
+        "image": "file:///android_asset/img/ic_launcher.png",
+        "link": "https://latoquiz.blogspot.com/p/belanja-di-pasar-tradisional.html"
+      },
+	  {
+        "title": "Menghadiri Pernikahan",
+        "image": "file:///android_asset/img/ic_launcher.png",
+        "link": "https://latoquiz.blogspot.com/p/menghadiri-pernikahan.html"
+      }
+    ]
+  }
+}
