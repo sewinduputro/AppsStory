@@ -10,12 +10,12 @@
         "name": "admob",
         "value": 1,
 
-        "appId_appKey_publisherId_gameId": "-",
-        "banner": "-",
+        "appId_appKey_publisherId_gameId": "ca-app-pub-3940256099942544~3347511713",
+        "banner": "ca-app-pub-4741150800258294/5051557992",
         "mrec": "-",
-        "inter": "-",
-        "native_ad": "-",
-        "open_ad": "-",
+        "inter": "ca-app-pub-4741150800258294/1140233146",
+        "native_ad": "ca-app-pub-4741150800258294/5051557992",
+        "open_ad": "ca-app-pub-4741150800258294/4254845672",
         "splash_ad": true
       }
     ]
