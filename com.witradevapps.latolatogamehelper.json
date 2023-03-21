@@ -1,0 +1,79 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2
+    },
+
+    "ad_network": [
+      {
+        "name": "admob",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "ca-app-pub-3940256099942544~3347511713",
+        "banner": "ca-app-pub-4741150800258294/6283975811",
+        "mrec": "ca-app-pub-4741150800258294/6283975811",
+        "inter": "ca-app-pub-4741150800258294/6774930404",
+        "native_ad": "ca-app-pub-4741150800258294/8905591107",
+        "open_ad": "ca-app-pub-4741150800258294/4966346094",
+        "splash_ad": true
+      }
+    ]
+  },
+
+  "guide": {
+    "enable": true,
+    "content": [
+      {
+        "title": "Tebakan Lucu",
+        "image": "file:///android_asset/img/ic_launcher.png",
+        "link": "https://latoquiz.blogspot.com/p/tebakan-lucu.html"
+      },
+	  {
+        "title": "Tebakan Plesetan",
+        "image": "file:///android_asset/img/ic_launcher.png",
+        "link": "https://latoquiz.blogspot.com/p/tebakan-plesetan.html"
+      },
+	   {
+        "title": "Pantun Lucu",
+        "image": "file:///android_asset/img/ic_launcher.png",
+        "link": "https://latoquiz.blogspot.com/p/pantun-lucu.html"
+      },
+	  {
+        "title": "Gombalan Lucu",
+        "image": "file:///android_asset/img/ic_launcher.png",
+        "link": "https://latoquiz.blogspot.com/p/pantul-gombal-lucu.html"
+      },
+	  {
+        "title": "Cerita Lucu: Foto Di dompet",
+        "image": "file:///android_asset/img/ic_launcher.png",
+        "link": "https://latoquiz.blogspot.com/p/cerita-lucu-foto-di-dompet.html"
+      },
+	  {
+        "title": "Cerita Lucu Ditilang Polisi",
+        "image": "file:///android_asset/img/ic_launcher.png",
+        "link": "https://latoquiz.blogspot.com/p/cerita-lucu-ditilang-polisi.html"
+      },
+	  {
+        "title": "Guru Kocak Lucu Banget",
+        "image": "file:///android_asset/img/ic_launcher.png",
+        "link": "https://latoquiz.blogspot.com/p/guru-kocak-bikin-ngakak.html"
+      },
+	  {
+        "title": "Pelajaran Komputer Lucu",
+        "image": "file:///android_asset/img/ic_launcher.png",
+        "link": "https://latoquiz.blogspot.com/p/waktu-pelajaran-komputre.html"
+      },
+	  {
+        "title": "Tidak Gosok Gigi",
+        "image": "file:///android_asset/img/ic_launcher.png",
+        "link": "https://latoquiz.blogspot.com/p/tidak-gosok-gigi.html"
+      },
+	  {
+        "title": "Cowok Idaman",
+        "image": "file:///android_asset/img/ic_launcher.png",
+        "link": "https://latoquiz.blogspot.com/p/cowok-idaman.html"
+      }
+    ]
+  }
+}
