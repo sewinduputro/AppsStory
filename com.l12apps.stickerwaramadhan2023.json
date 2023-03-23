@@ -1,0 +1,54 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2
+    },
+
+    "ad_network": [
+      {
+        "name": "admob",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "ca-app-pub-3940256099942544~3347511713",
+        "banner": "ca-app-pub-4741150800258294/6597423668",
+        "mrec": "ca-app-pub-4741150800258294/6597423668",
+        "inter": "ca-app-pub-4741150800258294/7043597489",
+        "native_ad": "ca-app-pub-4741150800258294/5705590346",
+        "open_ad": "ca-app-pub-4741150800258294/8098699838",
+        "splash_ad": true
+      }
+    ]
+  },
+
+  "guide": {
+    "enable": true,
+    "content": [
+      {
+        "title": "Keutamaan Puasa Ramadhan",
+        "image": "file:///android_asset/img/ic_launcher.png",
+        "link": "https://latoquiz.blogspot.com/p/keutamaan-puasa-ramadhan.html"
+      },
+      {
+        "title": "Lima Perusak Amal di Bulan Ramadhan",
+        "image": "file:///android_asset/img/ic_launcher.png",
+        "link": "https://latoquiz.blogspot.com/p/lima-perusak-amal-di-bulan-ramadhan.html"
+      },
+	  {
+        "title": "Tata Cara Sholat Tarawih",
+        "image": "file:///android_asset/img/ic_launcher.png",
+        "link": "https://latoquiz.blogspot.com/p/shalat-tarawih.html"
+      },
+	   {
+        "title": "Tata Cara Sholat Tahajud",
+        "image": "file:///android_asset/img/ic_launcher.png",
+        "link": "https://latoquiz.blogspot.com/p/sholat-tahajud.html"
+      },
+	  {
+        "title": "Doa Mustajab Waktu Sahur",
+        "image": "file:///android_asset/img/ic_launcher.png",
+        "link": "https://latoquiz.blogspot.com/p/doa-sahur.html"
+      }
+    ]
+  }
+}
