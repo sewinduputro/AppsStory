@@ -2,7 +2,8 @@
   "ads": {
     "settings": {
       "app_id_onesignal": "off",
-      "interval_interstitial": 2
+      "interval_interstitial": 2,
+	"switch_ads_type": "banner_native_linear"    
     },
 
     "ad_network": [
