@@ -1,0 +1,179 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2,
+      "switch_ads_type": "banner_native_linear",
+      "make_app_crash_when_app_not_live_at_play_store": true,
+      "enable_activity_maintenance_with_chat_bot": true
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "952249092598646",
+        "banner": "952249092598646_952249359265286",
+        "mrec": "952249092598646_952249452598610",
+        "inter": "952249092598646_952249422598613",
+        "native_ad": "952249092598646_952249515931937",
+        "open_ad": "-",
+        "splash_ad": true
+      }
+    ]
+  },
+
+  "app_settings" : {
+    "list_view_mode" : "small_with_banner_ads",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Information",
+      "title": "Long-Term Assets",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "Long-Term Assets deserves special attention, especially due to the impact it has on the financial health of the business.",
+      "link": "https://latoquiz.blogspot.com/p/long-term-assets.html"
+    },
+	 {
+      "id": 2,
+      "name_category": "Information",
+      "title": "Financial Analysis",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "For both investors and company managers, financial analysis is a useful practice in the search for “success”, regardless of the proposal.",
+      "link": "https://latoquiz.blogspot.com/p/financial-analysis.html"
+    },
+	 {
+      "id": 3,
+      "name_category": "Information",
+      "title": "Analysis of Indicators",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "The analysis of indicators is the process by which the current financial situation of the company is evaluated.",
+      "link": "https://latoquiz.blogspot.com/p/indicator-analysis.html"
+    },
+	 {
+      "id": 4,
+      "name_category": "Information",
+      "title": "Asset Allocation",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "Asset allocation is an investment strategy where money is allocated across different asset classes. The objective is diversification.",
+      "link": "https://latoquiz.blogspot.com/p/asset-allocation.html"
+    },
+	 {
+      "id": 5,
+      "name_category": "Information",
+      "title": "Portfolio Allocation",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "One of the most important steps for investors to succeed is choosing investments that fit their profile. In this way, portfolio allocation becomes a very useful task.",
+      "link": "https://latoquiz.blogspot.com/p/portfolio-allocation.html"
+    },
+	 {
+      "id": 6,
+      "name_category": "Information",
+      "title": "Factor Investing",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "Factor investing is a strategy in which portfolio assets are chosen based on factors that impact their performance.",
+      "link": "https://latoquiz.blogspot.com/p/factor-investing.html"
+    },
+	 {
+      "id": 7,
+      "name_category": "Information",
+      "title": "Exchange Fund",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "Those who follow the financial market and are familiar with investment funds have most likely heard of exchange funds.",
+      "link": "https://latoquiz.blogspot.com/p/exchange-fund.html"
+    },
+	 {
+      "id": 8,
+      "name_category": "Information",
+      "title": "Fixed Income Fund",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "A fixed income fund is basically a type of investment fund that invests in fixed income securities.",
+      "link": "https://latoquiz.blogspot.com/p/fixed-income-funds.html"
+    },
+	 {
+      "id": 9,
+      "name_category": "Information",
+      "title": "Relevant Fact",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "The term known in the market as material fact refers to information about organizations and investment funds that, in some way, may intervene in investor decisions.",
+      "link": "https://latoquiz.blogspot.com/p/relevant-fact.html"
+    },
+	 {
+      "id": 10,
+      "name_category": "Information",
+      "title": "Financial Indicators",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "Financial indicators are metrics that help analyze the financial health of a company or business in order to show results about it.",
+      "link": "https://latoquiz.blogspot.com/p/financial-indicators.html"
+    },
+	 {
+      "id": 11,
+      "name_category": "Information",
+      "title": "Variable Income",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "For investors who wish to have more income, even if it means greater risks, one option is variable income.",
+      "link": "https://latoquiz.blogspot.com/p/variable-income.html"
+    },
+	 {
+      "id": 12,
+      "name_category": "Information",
+      "title": "Profitability ",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "Every investor wants to have a financial return on invested capital, and this return is profitability.",
+      "link": "https://latoquiz.blogspot.com/p/profitability.html"
+    },
+	 {
+      "id": 13,
+      "name_category": "Information",
+      "title": "Bear Market",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "The bear market is the term used to indicate when the market is in a bearish state. In this case, there is a generalized fall in asset prices due to investor expectations.",
+      "link": "https://latoquiz.blogspot.com/p/bear-market.html"
+    },
+	 {
+      "id": 14,
+      "name_category": "Information",
+      "title": "Bull Market",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "The bull market is the bull market. This is the term used to designate a period when investors are bullish. Therefore, there is an upward trend in asset prices on the stock exchange.",
+      "link": "https://latoquiz.blogspot.com/p/bull-market.html"
+    },
+	 {
+      "id": 15,
+      "name_category": "Information",
+      "title": "Financial Applications",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "Investing in the financial market can be a good way for those seeking financial independence. However, to be able to reach this goal, it is important to know about financial investments",
+      "link": "https://latoquiz.blogspot.com/p/financial-investments.html"
+    }
+  ]
+}
